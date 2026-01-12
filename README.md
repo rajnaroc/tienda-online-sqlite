@@ -7,7 +7,6 @@ almacenando la información en una base de datos SQLite.
 ## Tecnologías
 - Python 3
 - SQLite (sqlite3)
-- Kali Linux
 
 ## Ejecución
 ```bash
